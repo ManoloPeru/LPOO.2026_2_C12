@@ -301,9 +301,9 @@ namespace SGPlantaReciclajeView {
 			this->label5->Location = System::Drawing::Point(825, 25);
 			this->label5->Margin = System::Windows::Forms::Padding(7, 0, 7, 0);
 			this->label5->Name = L"label5";
-			this->label5->Size = System::Drawing::Size(97, 24);
+			this->label5->Size = System::Drawing::Size(524, 24);
 			this->label5->TabIndex = 30;
-			this->label5->Text = L"Cabecera:";
+			this->label5->Text = L"Cabecera, dar clic a una fila para recargar el detalle asociado:";
 			// 
 			// label6
 			// 
@@ -311,9 +311,9 @@ namespace SGPlantaReciclajeView {
 			this->label6->Location = System::Drawing::Point(825, 373);
 			this->label6->Margin = System::Windows::Forms::Padding(7, 0, 7, 0);
 			this->label6->Name = L"label6";
-			this->label6->Size = System::Drawing::Size(97, 24);
+			this->label6->Size = System::Drawing::Size(72, 24);
 			this->label6->TabIndex = 32;
-			this->label6->Text = L"Cabecera:";
+			this->label6->Text = L"Detalle:";
 			// 
 			// dgvDetalle
 			// 
